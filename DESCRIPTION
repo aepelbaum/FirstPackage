@@ -1,0 +1,9 @@
+Package: FirstPackage
+Type: Package
+Title: Sum two numbers
+Version: 0.1.0
+Author: Alexandre Epelbaum
+Description: This package sums two numbers
+License: cc0
+Encoding: UTF-8
+LazyData: true
